@@ -1,8 +1,0 @@
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\bin\Debug\DepCasic.exe.config
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\bin\Debug\DepCasic.exe
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\bin\Debug\DepCasic.pdb
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\obj\Debug\DepCasic.csproj.AssemblyReference.cache
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\obj\Debug\DepCasic.csproj.CoreCompileInputs.cache
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\obj\Debug\DepCasic.exe
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\obj\Debug\DepCasic.pdb
-C:\Users\EmirCanT\source\repos\DepCasic\DepCasic\obj\Debug\DepCasic.exe.config
